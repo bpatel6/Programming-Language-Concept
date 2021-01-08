@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="608cb89f-4f83-4ede-892a-781600329a5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gddng192" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\Suku\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\202.6948.69\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jhkJPIEMwOmZNPSTyjlKBB1yrK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="Debugger.Rust.DataView" />
+  </component>
+  <component name="RunManager" selected="Cargo.Test tree::tests">
+    <configuration name="Test tree::tests" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package hw6 --lib tree::tests" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tree::tests::test_inorder_traversal" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package hw6 --lib tree::tests::test_inorder_traversal -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tree::tests::test_postorder_traversal" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package hw6 --lib tree::tests::test_postorder_traversal -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tree::tests::test_preorder_traversal" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package hw6 --lib tree::tests::test_preorder_traversal -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test tree::tests::test_tree_size1" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="test --package hw6 --lib tree::tests::test_tree_size1 -- --exact" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Test tree::tests" />
+        <item itemvalue="Cargo.Test tree::tests::test_postorder_traversal" />
+        <item itemvalue="Cargo.Test tree::tests::test_inorder_traversal" />
+        <item itemvalue="Cargo.Test tree::tests::test_preorder_traversal" />
+        <item itemvalue="Cargo.Test tree::tests::test_tree_size1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="608cb89f-4f83-4ede-892a-781600329a5b" name="Default Changelist" comment="" />
+      <created>1604263638483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604263638483</updated>
+      <workItem from="1604508783903" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="161" key="#Plugins" timestamp="1604507312935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1604507312935" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604508969700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604508969700" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1604509004259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604509004259" />
+    <state width="1877" height="259" key="GridCell.Tab.0.bottom" timestamp="1604950588330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="608" height="68" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1604278129493" />
+    <state width="1877" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604950588330" />
+    <state width="1218" height="246" key="GridCell.Tab.0.bottom/0.23.1280.725@0.23.1280.725" timestamp="1604275157145" />
+    <state width="1877" height="259" key="GridCell.Tab.0.center" timestamp="1604950588314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="608" height="68" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1604278129491" />
+    <state width="1877" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604950588314" />
+    <state width="1218" height="246" key="GridCell.Tab.0.center/0.23.1280.725@0.23.1280.725" timestamp="1604275157144" />
+    <state width="1877" height="259" key="GridCell.Tab.0.left" timestamp="1604950588314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="608" height="68" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1604278129491" />
+    <state width="1877" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604950588314" />
+    <state width="1218" height="246" key="GridCell.Tab.0.left/0.23.1280.725@0.23.1280.725" timestamp="1604275157143" />
+    <state width="1877" height="259" key="GridCell.Tab.0.right" timestamp="1604950588314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="608" height="68" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1604278129492" />
+    <state width="1877" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604950588314" />
+    <state width="1218" height="246" key="GridCell.Tab.0.right/0.23.1280.725@0.23.1280.725" timestamp="1604275157144" />
+    <state x="812" y="160" key="SettingsEditor" timestamp="1604509085426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="812" y="160" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604509085426" />
+  </component>
+</project>
